@@ -1,0 +1,69 @@
+<svg id="Group_1616" data-name="Group 1616" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196" height="243.551" viewBox="0 0 196 243.551">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #dadbe6;
+      }
+
+      .cls-3 {
+        fill: #f7eceb;
+        stroke: #e6dbda;
+      }
+
+      .cls-4 {
+        fill: #545871;
+        font-size: 36px;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #9597a6;
+        font-size: 20px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        fill: #ebd0ce;
+      }
+
+      .cls-8 {
+        stroke: none;
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2235" data-name="Rectangle 2235" class="cls-1" width="32.487" height="32.487"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1582" data-name="Group 1582" transform="translate(0)">
+    <g id="Rectangle_244" data-name="Rectangle 244" class="cls-2" transform="translate(0 32.17)">
+      <rect class="cls-8" width="194.395" height="211.382" rx="10"/>
+      <!-- <rect class="cls-9" x="0.5" y="0.5" width="193.395" height="210.382" rx="9.5"/> -->
+    </g>
+
+    <!-- Rect inside circle -->
+    <g id="Rectangle_128" data-name="Rectangle 128" class="cls-3" transform="translate(64.796)">
+      <rect class="cls-8" width="64.974" height="64.974" rx="32.487"/>
+      <rect class="cls-9" x="0.5" y="0.5" width="63.974" height="63.974" rx="31.987"/>
+    </g>
+    <text id="VIP_" data-name="VIP " class="cls-4" transform="translate(0 86.747)"><tspan x="68.523" y="33">VIP </tspan></text>
+    <text id="We_ll_take_your_pup_for_a_30_minute_walk_and_make_sure_he_or_she_has_fresh_food_and_water." data-name="We’ll take your pup for a 30 minute walk and make sure he or she has fresh food and water." class="cls-5" transform="translate(36.548 130.725)"><tspan x="18.162" y="18">We’ll take </tspan><tspan x="7.962" y="50">your pup for </tspan></text>
+  </g>
+  <!-- <g id="Mask_Group_8" data-name="Mask Group 8" class="cls-6" transform="translate(80.92 15.567)"> 
+    <g id="ic_local_florist_black_24px" transform="translate(4.061 1.354)">
+      <path id="Path_357" data-name="Path 357" class="cls-7" d="M14.183,29.093A12.184,12.184,0,0,0,26.365,16.91,12.184,12.184,0,0,0,14.183,29.093ZM5.519,13.188a3.388,3.388,0,0,0,5.306,2.788l-.027.257a3.384,3.384,0,1,0,6.768,0l-.027-.257a3.336,3.336,0,0,0,1.922.6,3.376,3.376,0,0,0,1.448-6.43A3.379,3.379,0,1,0,17.54,4.308l.027-.257a3.384,3.384,0,0,0-6.768,0l.027.257a3.336,3.336,0,0,0-1.922-.6,3.376,3.376,0,0,0-1.448,6.43A3.372,3.372,0,0,0,5.519,13.188Zm8.663-6.43A3.384,3.384,0,1,1,10.8,10.142,3.385,3.385,0,0,1,14.183,6.758ZM2,16.91A12.184,12.184,0,0,0,14.183,29.093,12.184,12.184,0,0,0,2,16.91Z" transform="translate(-2 -0.667)"/>
+    </g>
+   </g> -->
+</svg>
